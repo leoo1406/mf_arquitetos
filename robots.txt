@@ -1,0 +1,6 @@
+# mf+arquitetos
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://www.mfmaisarquitetos.com/sitemap.xml

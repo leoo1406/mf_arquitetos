@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+    />
+    <title>mf+arquitetos | Página não encontrada</title>
+    <meta
+      name="description"
+      content="A página que você procura não existe. Volte ao início e conheça os projetos do mf+arquitetos."
+    />
+    <meta name="theme-color" content="#101211" />
+    <meta name="robots" content="noindex,follow" />
+    <link rel="icon" href="img/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100,300..700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/immersive.css" />
+    <style>
+      .lost {
+        min-height: 100svh;
+        background: var(--night);
+        color: var(--white);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: calc(130px + env(safe-area-inset-top))
+          calc(var(--gut) + env(safe-area-inset-right))
+          calc(60px + env(safe-area-inset-bottom))
+          calc(var(--gut) + env(safe-area-inset-left));
+      }
+      .lost-brand {
+        position: absolute;
+        top: clamp(26px, 3vw, 38px);
+        left: calc(var(--gut) + env(safe-area-inset-left));
+      }
+      .lost-brand img {
+        width: clamp(195px, 18vw, 275px);
+        height: auto;
+        filter: invert(1);
+        mix-blend-mode: screen;
+      }
+      .lost .kicker {
+        font-size: 0.8125rem;
+        color: #b9c1b7;
+        margin-bottom: 22px;
+      }
+      .lost h1 {
+        font-size: clamp(3rem, 6vw, 6rem);
+        line-height: 1.04;
+        max-width: 16ch;
+        margin-bottom: 30px;
+      }
+      .lost p {
+        font-size: 1.0625rem;
+        line-height: 1.7;
+        color: #bcc2b9;
+        max-width: 44ch;
+        margin-bottom: 44px;
+      }
+      .lost-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 18px 40px;
+      }
+      .lost-links a {
+        display: inline-flex;
+        align-items: center;
+        gap: 30px;
+        font-size: 0.9375rem;
+        border-bottom: 1px solid #ffffff70;
+        padding: 10px 0;
+        transition:
+          border-color 0.35s var(--ease),
+          color 0.35s var(--ease);
+      }
+      .lost-links a:hover {
+        border-color: #fff;
+      }
+      .lost-links i {
+        font-style: normal;
+        transition: transform 0.4s var(--ease);
+      }
+      .lost-links a:hover i {
+        transform: translate(3px, -3px);
+      }
+      .lost-foot {
+        margin-top: auto;
+        padding-top: 56px;
+        font-size: 0.75rem;
+        color: #99a593;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="lost">
+      <a class="lost-brand" href="/" aria-label="mf+arquitetos — início"
+        ><img
+          src="img/logo-mf-arquitetos.png"
+          alt="mf+arquitetos"
+          width="995"
+          height="182"
+      /></a>
+      <span class="kicker">Erro 404</span>
+      <h1>Esta página não existe.</h1>
+      <p>
+        O endereço pode ter mudado ou o link estar incompleto. Os projetos
+        continuam por aqui.
+      </p>
+      <div class="lost-links">
+        <a href="/"><span>Voltar ao início</span><i aria-hidden="true">↗</i></a>
+        <a href="/#/projetos"
+          ><span>Ver os projetos</span><i aria-hidden="true">↗</i></a
+        >
+        <a href="/#/contato"
+          ><span>Falar com o escritório</span><i aria-hidden="true">↗</i></a
+        >
+      </div>
+      <div class="lost-foot">mf+arquitetos · Franca, São Paulo</div>
+    </main>
+  </body>
+</html>

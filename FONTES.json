@@ -1,0 +1,267 @@
+{
+  "consultadoEm": "2026-09-08",
+  "portfolio": "https://www.mfmaisarquitetos.com/projetos",
+  "projetos": [
+    {
+      "nome": "Casa do Lago",
+      "fonte": "https://www.mfmaisarquitetos.com/casa-do-lago",
+      "fotografo": null,
+      "tipo": "photography",
+      "imagens": [
+        {
+          "arquivo": "img/portfolio/casa-do-lago-01.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_7dec87e59c3640e0a80b656c7d2a222e~mv2.jpg",
+          "alt": "Casa do Lago, volume de concreto com piscina e lago em primeiro plano"
+        },
+        {
+          "arquivo": "img/portfolio/casa-do-lago-04.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_bb1603a963a14373923106f1658b03d9~mv2.jpeg",
+          "alt": "Piscina e deck da Casa do Lago entre a vegetação"
+        },
+        {
+          "arquivo": "img/portfolio/casa-do-lago-10.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_2a368934010f40f392ef1d7b1c0c7394~mv2.jpeg",
+          "alt": "Brises da fachada da Casa do Lago ao sol"
+        },
+        {
+          "arquivo": "img/portfolio/casa-do-lago-15.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_f015e30b20b645c98844f04268acca33~mv2.jpeg",
+          "alt": "Volume de pedra e acesso da Casa do Lago"
+        },
+        {
+          "arquivo": "img/portfolio/casa-do-lago-19.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_56fa70c1bb7e4cb9b3d36dfcbd6176c3~mv2.jpeg",
+          "alt": "Entrada da Casa do Lago entre árvores e espelho d’água"
+        },
+        {
+          "arquivo": "img/portfolio/casa-do-lago-22.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_c68653b20bbb4c359dc84dc8e7c51c1c~mv2.jpeg",
+          "alt": "Living da Casa do Lago integrado à paisagem"
+        }
+      ]
+    },
+    {
+      "nome": "Casa Celeiro",
+      "fonte": "https://www.mfmaisarquitetos.com/casaceleiro",
+      "fotografo": null,
+      "tipo": "architectural_rendering",
+      "imagens": [
+        {
+          "arquivo": "img/portfolio/casaceleiro-00.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_870cec6f892c4481b5ce6d947f5e6ebc~mv2.jpg",
+          "alt": "Renderização aérea da Casa Celeiro junto ao lago"
+        },
+        {
+          "arquivo": "img/portfolio/casaceleiro-01.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_6c8fd60a6e974418a34810836cacf43c~mv2.jpg",
+          "alt": "Renderização da implantação da Casa Celeiro entre árvores"
+        },
+        {
+          "arquivo": "img/portfolio/casaceleiro-02.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_2e5f9297fdfa4fb5b34e8989d512862f~mv2.jpg",
+          "alt": "Renderização da fachada horizontal da Casa Celeiro"
+        },
+        {
+          "arquivo": "img/portfolio/casaceleiro-03.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_d1e8be1ec58547d4863475d99cb26113~mv2.jpg",
+          "alt": "Renderização do acesso da Casa Celeiro"
+        },
+        {
+          "arquivo": "img/portfolio/casaceleiro-04.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_59fa187e03cb4a0f9e280c69f82a4689~mv2.jpg",
+          "alt": "Renderização lateral da Casa Celeiro na paisagem"
+        },
+        {
+          "arquivo": "img/portfolio/casaceleiro-05.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_b9651f8600a04405809cd85e9c4d1621~mv2.jpg",
+          "alt": "Renderização da cobertura e fachada lateral da Casa Celeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Casa MCNY",
+      "fonte": "https://www.mfmaisarquitetos.com/casa-mcny",
+      "fotografo": "Renato Moura",
+      "tipo": "photography",
+      "imagens": [
+        {
+          "arquivo": "img/portfolio/casa-mcny-00.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_7615a262cad647659bc63ab953603853~mv2_d_5472_3648_s_4_2.jpg",
+          "alt": "Fachada da Casa MCNY vista do jardim"
+        },
+        {
+          "arquivo": "img/portfolio/casa-mcny-02.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_49e02f3f542d41c3b03520995b2ac6fc~mv2_d_5472_3648_s_4_2.jpg",
+          "alt": "Piscina da Casa MCNY junto à fachada em madeira"
+        },
+        {
+          "arquivo": "img/portfolio/casa-mcny-03.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_5896efe64329477ca2194f638b66ca0d~mv2_d_5472_3648_s_4_2.jpg",
+          "alt": "Volume revestido de madeira e área externa da Casa MCNY"
+        },
+        {
+          "arquivo": "img/portfolio/casa-mcny-08.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_2ecf5057b5004bfbb415d402b50ea3ca~mv2_d_5163_3442_s_4_2.jpg",
+          "alt": "Sala e jantar da Casa MCNY integrados ao jardim"
+        },
+        {
+          "arquivo": "img/portfolio/casa-mcny-12.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_d2e899c68af94ceda97e0d31163ef260~mv2_d_7800_4500_s_4_2.jpg",
+          "alt": "Área de estar externa da Casa MCNY à noite"
+        },
+        {
+          "arquivo": "img/portfolio/casa-mcny-18.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_964ec5462da64cb48ddeb464ab008b82~mv2_d_5472_3648_s_4_2.jpg",
+          "alt": "Pátio iluminado da Casa MCNY ao anoitecer"
+        }
+      ]
+    },
+    {
+      "nome": "Tartuferia San Paolo",
+      "fonte": "https://www.mfmaisarquitetos.com/tartuferiasanpaolo",
+      "fotografo": "Felipe Araujo",
+      "tipo": "photography",
+      "imagens": [
+        {
+          "arquivo": "img/portfolio/tartuferiasanpaolo-18.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_b055a71dc7ba40418ed67afa018c4f47~mv2.jpg",
+          "alt": "Mesa e estante da Tartuferia San Paolo junto ao jardim"
+        },
+        {
+          "arquivo": "img/portfolio/tartuferiasanpaolo-02.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_4be4a5b96d0f449f96a4360b64eff85b~mv2.jpg",
+          "alt": "Recepção da Tartuferia San Paolo com poltronas e vegetação"
+        },
+        {
+          "arquivo": "img/portfolio/tartuferiasanpaolo-00.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_1231176213d345ecb5a48229e5059249~mv2.jpg",
+          "alt": "Entrada da Tartuferia San Paolo em concreto"
+        },
+        {
+          "arquivo": "img/portfolio/tartuferiasanpaolo-05.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_0306993c50594bb0ab97c2ea39dd6e4a~mv2.jpg",
+          "alt": "Detalhe da marcenaria iluminada da Tartuferia San Paolo"
+        },
+        {
+          "arquivo": "img/portfolio/tartuferiasanpaolo-08.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_d5ec104623b949ac8f768bbaf1b475c0~mv2.jpg",
+          "alt": "Mesas da Tartuferia San Paolo entre árvores e plantas"
+        },
+        {
+          "arquivo": "img/portfolio/tartuferiasanpaolo-12.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_f73e61c289564ffca0fbc066eb7b4b95~mv2.jpg",
+          "alt": "Interior da Tartuferia San Paolo com acabamento em madeira e jardim"
+        }
+      ]
+    },
+    {
+      "nome": "Casa Biblioteca",
+      "fonte": "https://www.mfmaisarquitetos.com/casabiblioteca",
+      "fotografo": null,
+      "tipo": "photography",
+      "imagens": [
+        {
+          "arquivo": "img/portfolio/casabiblioteca-00.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_234e0c6d56b9467096b517e3fc75c773~mv2.jpg",
+          "alt": "Fachada da Casa Biblioteca com pedra, madeira e elementos vazados"
+        },
+        {
+          "arquivo": "img/portfolio/casabiblioteca-01.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_fcaa472e67c141949bedc3d600d54052~mv2.jpg",
+          "alt": "Vista da fachada e jardim da Casa Biblioteca"
+        },
+        {
+          "arquivo": "img/portfolio/casabiblioteca-04.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_561d1002b6784992be985127d8059c53~mv2.jpg",
+          "alt": "Varanda da Casa Biblioteca com cadeiras e parede de pedra"
+        },
+        {
+          "arquivo": "img/portfolio/casabiblioteca-05.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_30f848dce61a41bfb084e2f93c6b4d0a~mv2.jpg",
+          "alt": "Jardim interno da Casa Biblioteca"
+        },
+        {
+          "arquivo": "img/portfolio/casabiblioteca-08.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_1aa598432d9e4ed6a3c9f3ba70f97fbc~mv2.jpg",
+          "alt": "Interior da Casa Biblioteca aberto para o verde"
+        },
+        {
+          "arquivo": "img/portfolio/casabiblioteca-12.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_758b048dbce846b8890c73126d03ac80~mv2.jpg",
+          "alt": "Sala de jantar e biblioteca da Casa Biblioteca"
+        }
+      ]
+    },
+    {
+      "nome": "Casa das Jabuticabeiras",
+      "fonte": "https://www.mfmaisarquitetos.com/casajaboticabeiras",
+      "fotografo": "Felipe Araujo",
+      "tipo": "photography",
+      "imagens": [
+        {
+          "arquivo": "img/portfolio/casajaboticabeiras-00.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_15ab9db9a76c471ab3ea160ae52e7bac~mv2.jpg",
+          "alt": "Fachada da Casa das Jabuticabeiras com volume de madeira"
+        },
+        {
+          "arquivo": "img/portfolio/casajaboticabeiras-04.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_d244bdc7ccee4ec89f269bae6d2904ac~mv2.jpg",
+          "alt": "Entrada e árvore da Casa das Jabuticabeiras"
+        },
+        {
+          "arquivo": "img/portfolio/casajaboticabeiras-08.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_7b9a62b439d840c5aa20015e45d8d63c~mv2.jpg",
+          "alt": "Volume de madeira da Casa das Jabuticabeiras visto do pátio"
+        },
+        {
+          "arquivo": "img/portfolio/casajaboticabeiras-12.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_a294f1a918d54a6da31954f44681cbfc~mv2.jpg",
+          "alt": "Espelho d’água e parede de pedra da Casa das Jabuticabeiras"
+        },
+        {
+          "arquivo": "img/portfolio/casajaboticabeiras-16.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_3a620fd6417e459992bed35db3b131e7~mv2.jpg",
+          "alt": "Sala de jantar da Casa das Jabuticabeiras"
+        },
+        {
+          "arquivo": "img/portfolio/casajaboticabeiras-20.webp",
+          "original": "https://static.wixstatic.com/media/e64cd4_ba8bca75aebd44878e1a334a8a0dbafa~mv2.jpg",
+          "alt": "Detalhe da marcenaria da Casa das Jabuticabeiras"
+        }
+      ]
+    }
+  ],
+  "equipe": {
+    "fonte": "https://www.mfmaisarquitetos.com/sobre",
+    "imagem": "img/portfolio/sobre-00.webp"
+  },
+  "logo": {
+    "fonte": "https://www.mfmaisarquitetos.com/casa-do-lago",
+    "arquivo": "img/logo-mf-arquitetos.png"
+  },
+  "videoAbertura": {
+    "tipo": "montagem demonstrativa de fotografias, não filmagem",
+    "arquivos": [
+      "video/hero-demonstracao.mp4",
+      "video/hero-demonstracao-mobile.mp4"
+    ],
+    "projeto": "Casa do Lago",
+    "imagensBase": [
+      "img/portfolio/casa-do-lago-01.webp",
+      "img/portfolio/casa-do-lago-19.webp",
+      "img/portfolio/casa-do-lago-22.webp"
+    ],
+    "tratamento": "Aproximações suaves e transições entre fotografias. Arquivos MP4/H.264 sem áudio, 16,4 segundos.",
+    "observacao": "Fontes das fotografias registradas acima no projeto Casa do Lago."
+  },
+  "referenciaLayout": {
+    "consultadoEm": "2026-09-09",
+    "paginas": [
+      "https://mosincorporadora.com/",
+      "https://mosincorporadora.com/projetos",
+      "https://mosincorporadora.com/revista",
+      "https://mosincorporadora.com/contato"
+    ],
+    "uso": "Referência de composição: abertura em tela cheia, fotografias contínuas e páginas separadas. Imagens do projeto são da MF+."
+  }
+}
