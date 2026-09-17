@@ -1708,8 +1708,8 @@ function setSiteLanguage(lang) {
 
 const HOME_FEATURED = ['casa-do-lago', 'casa-mcny', 'tartuferia-sanpaolo', 'casa-celeiro'];
 const HERO_VIDEO = {
-  src: 'video/hero-demonstracao.mp4',
-  mobileSrc: 'video/hero-demonstracao-mobile.mp4',
+  src: 'video/hero.mp4',
+  mobileSrc: 'video/hero.mp4',
   poster: 'img/portfolio/casa-do-lago-01.webp'
 };
 

@@ -367,7 +367,7 @@ function card(p, heading = 'h3') {
     <div class="wall-copy"><div class="wall-kicker">${esc(p.cat)}${p.render ? ' · ' + esc(ui('rendering')) : ''}</div>
       <${heading}>${esc(p.title)}</${heading}>
       <div class="wall-meta"><span>${esc(p.cidade)}, ${esc(p.uf)}</span><span>${esc(p.render ? p.status : p.area || p.ano)}</span></div>
-      <span class="wall-link">${esc(ui('viewProject'))} <i aria-hidden="true">↗</i></span>
+      <span class="wall-link">${esc(ui('viewProject'))} <svg class="wall-arrow" aria-hidden="true" viewBox="0 0 16 16"><path d="M4 12 12 4M6 4h6v6"/></svg></span>
     </div>
   </a>`;
 }

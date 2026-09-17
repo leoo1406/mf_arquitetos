@@ -242,8 +242,8 @@
   "videoAbertura": {
     "tipo": "montagem demonstrativa de fotografias, não filmagem",
     "arquivos": [
-      "video/hero-demonstracao.mp4",
-      "video/hero-demonstracao-mobile.mp4"
+      "video/hero.mp4",
+      "video/hero.mp4"
     ],
     "projeto": "Casa do Lago",
     "imagensBase": [
